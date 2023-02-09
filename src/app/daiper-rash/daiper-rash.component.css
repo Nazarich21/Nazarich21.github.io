@@ -25,11 +25,11 @@ ul {
     color:#00b5e2;
 }
 
-.header{
-    color:#9b51e0;
+.header {
+    color: #31316f;
     font-weight: 600;
-    font-size: 38px;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 *{
-    font-family: 'Questrial', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }

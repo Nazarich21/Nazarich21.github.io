@@ -1,16 +1,18 @@
 .background-blue{
-    color: white;
-    background-color:#00b5e2;
+    background-color:#8cd1ed;
 }
-.text-white{
-    color: white;
+.text-white1{
+    color: #31316f;
 }
 .text-blue{
     color:#00b5e2;
+}
+.text-red{
+    color:darkred;
 }
 .active{
     font-weight: bold;
 }
 *{
-    font-family: 'Questrial', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }

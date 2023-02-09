@@ -32,9 +32,9 @@ video {
 }
 
 .header {
-    color: #9b51e0;
+    color: #31316f;
     font-weight: 600;
-    font-size: 38px;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 *{
     font-family: 'Questrial', sans-serif;
