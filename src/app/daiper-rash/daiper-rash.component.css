@@ -1,0 +1,35 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list-item {
+    color:#00b5e2;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.main__rash {
+    font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+    color: #000000 !important;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.hero__features {
+    background-color: rgba(227, 227, 226, 255);
+}
+
+.text-blue{
+    color:#00b5e2;
+}
+
+.header{
+    color:#9b51e0;
+    font-weight: 600;
+    font-size: 38px;
+}
+*{
+    font-family: 'Questrial', sans-serif;
+}

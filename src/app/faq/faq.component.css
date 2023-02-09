@@ -1,0 +1,15 @@
+.question{
+    color:#00b5e2;
+}
+
+.header{
+    color:#9b51e0;
+    font-weight: 600;
+    font-size: 38px;
+}
+.hero__features {
+    background-color: rgba(227, 227, 226, 255);
+}
+*{
+    font-family: 'Questrial', sans-serif;
+}
