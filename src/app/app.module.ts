@@ -10,6 +10,7 @@ import { FaqComponent } from './faq/faq.component';
 import { OlaCareComponent } from './ola-care/ola-care.component';
 import { MainComponent } from './main/main.component';
 import { FooterComponent } from './footer/footer.component';
+import { ForSaleComponent } from './for-sale/for-sale.component';
 
 const routes: Routes = [
   { path: 'home', component: MainComponent },
@@ -18,6 +19,7 @@ const routes: Routes = [
   { path: 'baby-care', component: BabyCareComponent },
   { path: 'faq', component: FaqComponent },
   { path: 'contact', component: ContactComponent },
+  { path: 'where-to-buy', component: ForSaleComponent },
   { path: '**', redirectTo: 'home' }
 ];
 
@@ -30,7 +32,8 @@ const routes: Routes = [
     FaqComponent,
     OlaCareComponent,
     MainComponent,
-    FooterComponent
+    FooterComponent,
+    ForSaleComponent
   ],
   imports: [
     BrowserModule,

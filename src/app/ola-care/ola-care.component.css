@@ -1,0 +1,31 @@
+li {
+	margin: 0;
+	padding: 10px 0 10px 0;
+	list-style: none;
+	background-image: url('/assets/media/Check-Mark-Tick-Transparent-Clip-Art-PNG.png');
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+}
+span{
+    font-weight: bold;
+}
+.text-blue{
+    color:#00b5e2;
+}
+.header {
+    color: #31316f;
+    font-weight: 600;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.backgroud-grey{
+    background-color: rgba(227, 227, 226, 255);;
+}
+.header {
+    color: #31316f;
+    font-weight: 600;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+*{
+    font-family: 'Questrial', sans-serif;
+}

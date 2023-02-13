@@ -1,3 +1,17 @@
 *{
     font-family: 'Questrial', sans-serif;
 }
+.eurodrug{
+    width:150px;
+}
+p{
+    margin: 0;
+}
+.text-red{
+    color: #c00204;
+}
+.header {
+    color: #31316f;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans', sans-serif;
+}

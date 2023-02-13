@@ -1,6 +1,12 @@
 .background-blue{
     color: white;
-    background-color:#00b5e2;
+    background-color:#87cefa;
+}
+.text-purple{
+    color: #31316f;
+}
+.eurodrug{
+    width:150px;
 }
 *{
     font-family: 'Questrial', sans-serif;
